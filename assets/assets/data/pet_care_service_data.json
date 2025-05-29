@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "service_name": "Grooming Services",
+    "overview": "Grooming is essential for maintaining your pet's coat, skin, and overall hygiene. Regular grooming can also help prevent issues like matting, skin infections, and shedding.",
+    "common_services": [
+      "Bathing & Shampooing",
+      "Haircuts & Trimming",
+      "Nail Clipping",
+      "Ear Cleaning",
+      "Teeth Brushing",
+      "Flea and Tick Treatment"
+    ],
+    "popular_providers": [
+      "Petco",
+      "PetSmart",
+      "Independent local groomers"
+    ]
+  },
+  {
+    "id": 2,
+    "service_name": "Veterinary Visits",
+    "overview": "Regular check-ups with a veterinarian are essential to your pet’s health. Vets provide medical care, vaccinations, and early detection of health issues.",
+    "common_services": [
+      "Routine Check-ups",
+      "Vaccinations",
+      "Dental Care",
+      "Parasite Control",
+      "Surgical Services",
+      "Diagnostic Testing"
+    ],
+    "popular_providers": [
+      "Banfield Pet Hospital",
+      "VCA Animal Hospitals",
+      "Local veterinary clinics"
+    ]
+  },
+  {
+    "id": 3,
+    "service_name": "Pet Boarding & Daycare",
+    "overview": "When you need to travel or work long hours, pet boarding and daycare services ensure your pet is cared for in a safe and fun environment.",
+    "common_services": [
+      "Boarding",
+      "Daycare",
+      "Specialty Boarding"
+    ],
+    "popular_providers": [
+      "Camp Bow Wow",
+      "PetSmart Pet Hotels",
+      "Independent local pet hotels"
+    ]
+  },
+  {
+    "id": 4,
+    "service_name": "Pet Training & Behavior Services",
+    "overview": "Training services help your pet become well-mannered, obedient, and socially comfortable. These programs can address issues like excessive barking, potty training, and aggression.",
+    "common_services": [
+      "Basic Obedience",
+      "Puppy Classes",
+      "Behavioral Training",
+      "Service Dog Training",
+      "Group vs. Private Lessons"
+    ],
+    "popular_providers": [
+      "The Dog Trainer",
+      "Bark Busters",
+      "Local certified trainers"
+    ]
+  },
+  {
+    "id": 5,
+    "service_name": "Pet Sitting & Walking Services",
+    "overview": "If you’re unable to be home during the day, pet sitting and walking services provide companionship, exercise, and potty breaks for your pet.",
+    "common_services": [
+      "Dog Walking",
+      "Pet Sitting",
+      "Overnight Stays",
+      "Pet Taxi"
+    ],
+    "popular_providers": [
+      "Rover",
+      "Wag!",
+      "Local independent sitters and walkers"
+    ]
+  },
+  {
+    "id": 6,
+    "service_name": "Pet Adoption & Rescue Services",
+    "overview": "If you're considering adopting a pet, there are various rescue and adoption services that help connect potential pet owners with animals in need of homes.",
+    "common_services": [
+      "Adoption Centers",
+      "Rescue Groups",
+      "Fostering Programs"
+    ],
+    "popular_providers": [
+      "ASPCA",
+      "Petfinder",
+      "Local animal shelters"
+    ]
+  },
+  {
+    "id": 7,
+    "service_name": "Pet Products and Supplies",
+    "overview": "Pet care also includes providing your pet with the right products, from food and treats to bedding and toys.",
+    "common_services": [
+      "Pet Food & Treats",
+      "Toys & Enrichment",
+      "Pet Accessories",
+      "Health Supplements"
+    ],
+    "popular_providers": [
+      "Chewy",
+      "Petco",
+      "Amazon",
+      "Local pet stores"
+    ]
+  },
+  {
+    "id": 8,
+    "service_name": "Pet Insurance Services",
+    "overview": "Pet insurance helps cover the costs of unexpected medical treatments and emergencies, allowing you to focus on your pet’s recovery without the financial burden.",
+    "common_services": [
+      "Accident & Illness Plans",
+      "Wellness Plans",
+      "Emergency Plans"
+    ],
+    "popular_providers": [
+      "Healthy Paws",
+      "Trupanion",
+      "Petplan",
+      "Nationwide Pet Insurance"
+    ]
+  },
+  {
+    "id": 9,
+    "service_name": "Pet Transportation Services",
+    "overview": "Pet transportation services are designed to safely transport your pet from one location to another, whether it’s a trip to the vet, airport, or a new home.",
+    "common_services": [
+      "Airport Pet Transport",
+      "Vet Appointments",
+      "Long-Distance Travel",
+      "Pet Relocation"
+    ],
+    "popular_providers": [
+      "PetRelocation",
+      "Animal Transportation Worldwide",
+      "ShipYourPetsFreight"
+    ]
+  },
+  {
+    "id": 10,
+    "service_name": "Pet Spa & Wellness",
+    "overview": "Pet spas offer luxury grooming and wellness treatments to enhance your pet's health and relaxation.",
+    "common_services": [
+      "Aromatherapy",
+      "Massages",
+      "Hot Towel Treatment",
+      "Hydrotherapy"
+    ],
+    "popular_providers": [
+      "The Dog Spa",
+      "Bark Avenue Day Spa",
+      "Petco"
+    ]
+  }
+]

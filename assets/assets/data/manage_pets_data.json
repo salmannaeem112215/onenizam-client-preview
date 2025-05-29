@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "petId": "123456",
+    "name": "Buddy",
+    "species": "Dog",
+    "owner": {
+      "name": "John Doe",
+      "phone": "+1234567890"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-01-15",
+        "diagnosis": "Ear infection",
+        "treatment": "Ear drops"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A001",
+        "date": "2024-01-15",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "petId": "789012",
+    "name": "Whiskers",
+    "species": "Cat",
+    "owner": {
+      "name": "Jane Smith",
+      "phone": "+1987654321"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-02-10",
+        "diagnosis": "Feline Leukemia",
+        "treatment": "Antivirals"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A002",
+        "date": "2024-02-10",
+        "visitType": "Emergency"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "petId": "112233",
+    "name": "Max",
+    "species": "Dog",
+    "owner": {
+      "name": "Sarah Connor",
+      "phone": "+1122334455"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-03-05",
+        "diagnosis": "Joint pain",
+        "treatment": "Pain relievers"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A003",
+        "date": "2024-03-05",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "petId": "223344",
+    "name": "Bella",
+    "species": "Cat",
+    "owner": {
+      "name": "Tom Hanks",
+      "phone": "+2233445566"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-04-12",
+        "diagnosis": "Allergic reaction",
+        "treatment": "Antihistamines"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A004",
+        "date": "2024-04-12",
+        "visitType": "Emergency"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "petId": "334455",
+    "name": "Charlie",
+    "species": "Dog",
+    "owner": {
+      "name": "Emily Blunt",
+      "phone": "+3344556677"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-05-01",
+        "diagnosis": "Parvovirus",
+        "treatment": "IV fluids and antibiotics"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A005",
+        "date": "2024-05-01",
+        "visitType": "Emergency"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "petId": "445566",
+    "name": "Socks",
+    "species": "Cat",
+    "owner": {
+      "name": "Anna Kendrick",
+      "phone": "+4455667788"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-06-10",
+        "diagnosis": "Kidney disease",
+        "treatment": "Special diet"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A006",
+        "date": "2024-06-10",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "petId": "556677",
+    "name": "Daisy",
+    "species": "Dog",
+    "owner": {
+      "name": "Ryan Gosling",
+      "phone": "+5566778899"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-07-01",
+        "diagnosis": "Heart murmur",
+        "treatment": "Beta blockers"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A007",
+        "date": "2024-07-01",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "petId": "667788",
+    "name": "Mittens",
+    "species": "Cat",
+    "owner": {
+      "name": "Chris Hemsworth",
+      "phone": "+6677889900"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-08-20",
+        "diagnosis": "Upper respiratory infection",
+        "treatment": "Antibiotics"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A008",
+        "date": "2024-08-20",
+        "visitType": "Emergency"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "petId": "778899",
+    "name": "Lucky",
+    "species": "Dog",
+    "owner": {
+      "name": "Zendaya",
+      "phone": "+7788990011"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-09-15",
+        "diagnosis": "Eye infection",
+        "treatment": "Eye drops"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A009",
+        "date": "2024-09-15",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "petId": "889900",
+    "name": "Coco",
+    "species": "Dog",
+    "owner": {
+      "name": "Robert Downey Jr.",
+      "phone": "+8899001122"
+    },
+    "medicalHistory": [
+      {
+        "date": "2024-10-25",
+        "diagnosis": "Arthritis",
+        "treatment": "Anti-inflammatory medication"
+      }
+    ],
+    "appointmentHistory": [
+      {
+        "appointmentId": "A010",
+        "date": "2024-10-25",
+        "visitType": "Routine Checkup"
+      }
+    ]
+  }
+]
